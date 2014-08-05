@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Microsoft_Interview_100", "Microsoft_Interview_100\Microsoft_Interview_100.vcxproj", "{AC06EEA9-84AE-495F-807F-118922AB58C3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quiz 01 - BST to DLL", "Microsoft_Interview_100\Microsoft_Interview_100.vcxproj", "{AC06EEA9-84AE-495F-807F-118922AB58C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quiz 05 - Find K Minimum Numbers", "Quiz 5 - Find K Minimum Numbers\Quiz 5 - Find K Minimum Numbers.vcxproj", "{9AE36ABA-28F9-4207-B583-6CEA8CC0E225}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quiz 18 - Remaining Number in Circle (Joseph Circle)", "Quiz 18 - Remaining Number in Circle (Joseph Circle)\Quiz 18 - Remaining Number in Circle (Joseph Circle).vcxproj", "{F6416F11-EE62-40F9-A986-29243B84E042}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quiz 09 - Check Post Order Traversal", "Quiz 09 - Check Post Order Traversal\Quiz 09 - Check Post Order Traversal.vcxproj", "{CA291576-7517-465F-90DA-DD337DE8EE16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{AC06EEA9-84AE-495F-807F-118922AB58C3}.Debug|Win32.Build.0 = Debug|Win32
 		{AC06EEA9-84AE-495F-807F-118922AB58C3}.Release|Win32.ActiveCfg = Release|Win32
 		{AC06EEA9-84AE-495F-807F-118922AB58C3}.Release|Win32.Build.0 = Release|Win32
+		{9AE36ABA-28F9-4207-B583-6CEA8CC0E225}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9AE36ABA-28F9-4207-B583-6CEA8CC0E225}.Debug|Win32.Build.0 = Debug|Win32
+		{9AE36ABA-28F9-4207-B583-6CEA8CC0E225}.Release|Win32.ActiveCfg = Release|Win32
+		{9AE36ABA-28F9-4207-B583-6CEA8CC0E225}.Release|Win32.Build.0 = Release|Win32
+		{F6416F11-EE62-40F9-A986-29243B84E042}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6416F11-EE62-40F9-A986-29243B84E042}.Debug|Win32.Build.0 = Debug|Win32
+		{F6416F11-EE62-40F9-A986-29243B84E042}.Release|Win32.ActiveCfg = Release|Win32
+		{F6416F11-EE62-40F9-A986-29243B84E042}.Release|Win32.Build.0 = Release|Win32
+		{CA291576-7517-465F-90DA-DD337DE8EE16}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA291576-7517-465F-90DA-DD337DE8EE16}.Debug|Win32.Build.0 = Debug|Win32
+		{CA291576-7517-465F-90DA-DD337DE8EE16}.Release|Win32.ActiveCfg = Release|Win32
+		{CA291576-7517-465F-90DA-DD337DE8EE16}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -11,10 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{AC06EEA9-84AE-495F-807F-118922AB58C3}</ProjectGuid>
+    <ProjectGuid>{9AE36ABA-28F9-4207-B583-6CEA8CC0E225}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Microsoft_Interview_100</RootNamespace>
-    <ProjectName>Quiz 01 - BST to DLL</ProjectName>
+    <RootNamespace>Quiz5FindKMinimumNumbers</RootNamespace>
+    <ProjectName>Quiz 05 - Find K Minimum Numbers</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -84,7 +84,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Microsoft_Interview_100.cpp" />
+    <ClCompile Include="Quiz 5 - Find K Minimum Numbers.cpp" />
     <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -11,10 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{AC06EEA9-84AE-495F-807F-118922AB58C3}</ProjectGuid>
+    <ProjectGuid>{CA291576-7517-465F-90DA-DD337DE8EE16}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Microsoft_Interview_100</RootNamespace>
-    <ProjectName>Quiz 01 - BST to DLL</ProjectName>
+    <RootNamespace>Quiz09CheckPostOrderTraversal</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -84,7 +83,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Microsoft_Interview_100.cpp" />
+    <ClCompile Include="Quiz 09 - Check Post Order Traversal.cpp" />
     <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
